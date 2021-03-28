@@ -1,0 +1,37 @@
+html,body{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+
+}
+#rank{
+    text-align: center;
+
+}
+#hot-display-license-info{
+    display: none;
+
+}
+.main{
+    width: 100%;
+    margin: 20px auto 80px auto;
+
+}
+#table{
+    width: 800px;
+    margin: 0 auto;
+
+}
+tr{
+    height: 26px;
+    text-align: center;
+
+}
+#chart{
+    height: 300px;
+    width: 600px;
+    margin: 0 auto;
+
+}
+
